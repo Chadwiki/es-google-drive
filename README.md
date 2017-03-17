@@ -1,9 +1,10 @@
-es-google-drive-river
+es-google-drive
 =====================
+This is a test of G Drive connector for indexing. It is built from previous repo by lbroudoux.
 
-Google Drive river for Elasticsearch
+Google Drive ~~river~~ for Elasticsearch
 
-This river plugin helps to index documents from a Google Drive account.
+This ~~river~~ plugin helps to index documents from a Google Drive account.
 
 *WARNING*: For 0.0.1 released version, you need to have the [Attachment Plugin](https://github.com/elasticsearch/elasticsearch-mapper-attachments).
 

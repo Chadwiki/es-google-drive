@@ -1,0 +1,12 @@
+com/github/chadwiki/elasticsearch/river/drive/connector/DriveConnector.class
+com/github/chadwiki/elasticsearch/river/drive/river/DriveRiverUtil.class
+com/github/chadwiki/elasticsearch/river/drive/connector/DriveChanges.class
+com/github/chadwiki/elasticsearch/river/drive/river/DriveRiver.class
+com/github/chadwiki/elasticsearch/river/drive/river/TikaHolder.class
+com/github/chadwiki/elasticsearch/river/drive/plugin/DriveRiverPlugin.class
+com/github/chadwiki/elasticsearch/river/drive/river/DriveRiver$DriveScanner.class
+com/github/chadwiki/elasticsearch/river/drive/rest/DriveOAuthAction.class
+com/github/chadwiki/elasticsearch/river/drive/river/DriveRiverFeedDefinition.class
+com/github/chadwiki/elasticsearch/river/drive/rest/DriveManageAction.class
+com/github/chadwiki/elasticsearch/river/drive/river/DriveRiver$1.class
+com/github/chadwiki/elasticsearch/river/drive/river/DriveRiverModule.class

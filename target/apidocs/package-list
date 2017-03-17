@@ -1,0 +1,4 @@
+com.github.chadwiki.elasticsearch.river.drive.connector
+com.github.chadwiki.elasticsearch.river.drive.plugin
+com.github.chadwiki.elasticsearch.river.drive.rest
+com.github.chadwiki.elasticsearch.river.drive.river

@@ -10,11 +10,7 @@ Next steps:
 1) update tika version
 2) update google api
 3) update dependencies
-4) convert to plugin
-
-*WARNING*: For 0.0.1 released version, you need to have the [Attachment Plugin](https://github.com/elasticsearch/elasticsearch-mapper-attachments).
-
-*WARNING*: Starting from 0.0.2, you don't need anymore the [Attachment Plugin](https://github.com/elasticsearch/elasticsearch-mapper-attachments) as we use now directly [Tika](http://tika.apache.org/), see [issue #2](https://github.com/lbroudoux/es-google-drive-river/issues/2).
+4) convert to plugin for latest ES version 5.x
 
 Versions
 --------
@@ -58,7 +54,7 @@ Versions
 Build Status
 ------------
 
-Travis CI [![Build Status](https://travis-ci.org/lbroudoux/es-google-drive-river.png?branch=master)](https://travis-ci.org/lbroudoux/es-google-drive-river)
+Travis CI [![Build Status](https://travis-ci.org/lbroudoux/es-google-drive-river.png?branch=master)](https://travis-ci.org/chadwiki/es-google-drive)
 
 
 Getting Started
@@ -70,17 +66,17 @@ Installation
 Just install a regular Elasticsearch plugin by typing :
 
 ```sh
-$ bin/plugin --install com.github.lbroudoux.elasticsearch/google-drive-river/1.3.0
+$ bin/plugin --install com.github.chadwiki.elasticsearch/google-drive/1.3.1
 ```
 
 This will do the job...
 
 ```
--> Installing com.github.lbroudoux.elasticsearch/google-drive-river/1.3.0...
-Trying http://download.elasticsearch.org/com.github.lbroudoux.elasticsearch/google-drive-river/google-drive-river-1.3.0.zip...
-Trying http://search.maven.org/remotecontent?filepath=com/github/lbroudoux/elasticsearch/google-drive-river/1.3.0/google-drive-river-1.3.0.zip...
+-> Installing com.github.chadwiki.elasticsearch/google-drive/1.3.1...
+Trying http://download.elasticsearch.org/com.github.chadwiki.elasticsearch/google-drive/google-drive-1.3.0.zip...
+Trying http://search.maven.org/remotecontent?filepath=com/github/chadwiki/elasticsearch/google-drive/1.3.0/google-drive-1.3.0.zip...
 Downloading ......DONE
-Installed google-drive-river
+Installed google-drive
 ```
 
 
@@ -264,7 +260,8 @@ License
 ```
 This software is licensed under the Apache 2 license, quoted below.
 
-Copyright 2013 Laurent Broudoux
+~~Copyright 2013 Laurent Broudoux~~
+Copyright 2017 Chad Pryor
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License. You may obtain a copy of

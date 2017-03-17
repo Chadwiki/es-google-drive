@@ -4,7 +4,13 @@ This is a test of G Drive connector for indexing. It is built from previous repo
 
 Google Drive ~~river~~ for Elasticsearch
 
-This ~~river~~ plugin helps to index documents from a Google Drive account.
+This ~~river~~ plugin helps to index documents from a Google Drive account. 
+
+Next steps:
+1) update tika version
+2) update google api
+3) update dependencies
+4) convert to plugin
 
 *WARNING*: For 0.0.1 released version, you need to have the [Attachment Plugin](https://github.com/elasticsearch/elasticsearch-mapper-attachments).
 

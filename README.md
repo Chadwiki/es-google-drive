@@ -33,20 +33,23 @@ Versions
       <tr>
          <td>master (1.3.2-SNAPSHOT)</td>
          <td>1.3.9</td>
-         <td>No more used</td>
+         <td>n/a</td>
          <td>1.4</td>
+         <td>added description field</td>
       </tr>
       <tr>
          <td>master (1.3.1-SNAPSHOT)</td>
          <td>1.3.x</td>
-         <td>No more used</td>
+         <td>n/a</td>
          <td>1.4</td>
+         <td></td>
       </tr>
       <tr>
          <td>1.3.0</td>
          <td>1.3.x</td>
-         <td>No more used</td>
+         <td>n/a</td>
          <td>1.4</td>
+         <td></td>
       </tr>
    </tbody>
 </table>

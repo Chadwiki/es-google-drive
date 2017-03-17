@@ -26,6 +26,7 @@ Versions
          <td>ElasticSearch</td>
          <td>Attachment Plugin</td>
          <td>Tika</td>
+         <td>Updates</td>
       </tr>
    </thead>
    <tbody>
@@ -46,30 +47,6 @@ Versions
          <td>1.3.x</td>
          <td>No more used</td>
          <td>1.4</td>
-      </tr>
-      <tr>
-         <td>1.2.0</td>
-         <td>1.2.x</td>
-         <td>No more used</td>
-         <td>1.4</td>
-      </tr>
-      <tr>
-         <td>0.0.4</td>
-         <td>1.0.x and 1.1.x</td>
-         <td>No more used</td>
-         <td>1.4</td>
-      </tr>
-      <tr>
-         <td>0.0.2</td>
-         <td>0.90.0</td>
-         <td>No more used</td>
-         <td>1.4</td>
-      </tr>
-      <tr>
-         <td>0.0.1</td>
-         <td>0.90.0</td>
-         <td>1.7.0</td>
-         <td></td>
       </tr>
    </tbody>
 </table>
